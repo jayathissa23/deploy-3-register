@@ -411,26 +411,26 @@ footer {
 
 @media (max-width: 450px) {
   footer .email-container .email-input button {
-    left: 236rem; } }
+    left: 347rem; } }
 
 @media (max-width: 440px) {
   footer .email-container .email-input button {
-    left: 225rem; } }
+    left: 322rem; } }
 
 @media (max-width: 415px) {
   footer .email-container .email-input button {
-    left: 199rem; } }
+    left: 309rem; } }
 
 @media (max-width: 394px) {
   footer .email-container .email-input button {
-    left: 195rem; } }
+    left: 288rem; } }
 
 @media (max-width: 379.5px) {
   footer .email-container .email-input button {
-    left: 190rem;
+    left: 284rem;
     transform: scale(0.85); } }
 
 @media (max-width: 376px) {
   footer .email-container .email-input button {
     top: 34%;
-    left: 61%; } }
+    left: 66%; } }
