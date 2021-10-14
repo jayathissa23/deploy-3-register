@@ -7,7 +7,7 @@ button {
   cursor: pointer; }
 
 html {
-  font-size: 0.9px; }
+  font-size: 0.7px; }
 
 body {
   background: #FFFFFF;
@@ -298,13 +298,13 @@ footer {
 
 @media (max-width: 1582px) {
   main section .form-section .wrapper {
-    margin: 0 3rem 106rem 90px; }
+    margin: 0 193rem 106rem 90px; }
     main section .form-section .wrapper .sign-in .wrapper {
       margin: 87rem 84rem 0 56rem; } }
 
 @media (max-width: 1182px) {
   main section .form-section .wrapper {
-    font-size: 26rem; }
+    font-size: 18rem; }
     main section .form-section .wrapper .sign-in .wrapper .start-row {
       flex-direction: column; }
       main section .form-section .wrapper .sign-in .wrapper .start-row div {
